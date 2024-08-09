@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandeepkaur1804" alt="amandeepkaur1804" /></a> </p>
 
-- 🔭 I’m currently working on **Student Dashboard**
+<!-- 🔭 I’m currently working on **Student Dashboard** -->
 
-- 👯 I’m looking to collaborate on **Student Dashboard**
+<!-- 👯 I’m looking to collaborate on **Student Dashboard** -->
 
 - 📫 How to reach me **amandeepk1804@gmail.com**
 
