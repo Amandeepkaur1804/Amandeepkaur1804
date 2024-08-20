@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Amandeep Kaur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandeepkaur1804&label=Profile%20views&color=0e75b6&style=flat" alt="amandeepkaur1804" /> </p>
 
